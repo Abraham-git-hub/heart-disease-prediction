@@ -16,7 +16,6 @@ Heart disease remains the leading cause of death globally, claiming approximatel
 ## 🎓 Course Information
 
 - **Course**: Supervised Machine Learning
-- **Institution**: [Your University]
 - **Semester**: Fall 2025
 - **Author**: Abraham Asseffa
 
